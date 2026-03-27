@@ -1,4 +1,5 @@
-<h1>👋 Hello, I'm Giacomo — James for friends</h1>
+<h1>👋 Hello, I'm Giacomo</h1>
+  <h2>James for friends</h2>
 <p style="font-size:18px;">💻 HMI Developer / .NET Specialist</p>
 <p style="font-size:18px;">🧘‍♂️ Yoga lover | 📚 Fantasy fan</p>
 
